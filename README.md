@@ -1,3 +1,8 @@
+
+# Based on
+https://stackoverflow.com/questions/48145549/display-nested-object-in-column-in-primeng/56813473
+https://walkingtree.tech/nested-grid-in-primeng/
+
 # Nestedgrid
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.15.
